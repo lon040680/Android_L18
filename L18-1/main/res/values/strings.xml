@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseOK</string>
+    <string-array name="genres">
+        <item>抒情</item>
+        <item>搖滾</item>
+        <item>歌劇</item>
+        <item>演奏</item>
+    </string-array>
+</resources>
